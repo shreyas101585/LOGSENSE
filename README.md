@@ -472,6 +472,6 @@ MIT. Do whatever you want with it.
 
 _LogSense — private log intelligence that runs entirely in your browser._
 
-⭐ **Star this repo if it would've saved you at 3 AM**
+⭐ **Star this repo if it would've saved you at 3 AM **
 
 </div>
