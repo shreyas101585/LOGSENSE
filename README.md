@@ -476,3 +476,16 @@ _LogSense — private log intelligence that runs entirely in your browser._
 ⭐ **Star this repo if it would've saved you at 3 AM **
 
 </div>
+
+## Requirements
+
+- Node.js `>=20`
+- npm (no lockfile committed yet)
+
+## Usage
+
+```bash
+npm run dev
+```
+
+Document what a successful start prints, including the default port or URL.
